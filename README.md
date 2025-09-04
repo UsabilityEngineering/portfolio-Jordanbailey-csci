@@ -1,6 +1,6 @@
 # Jordan's UX Portfolio
 
-![Me](assets/me.jpg)
+![Me](./assets/me.jpg)
 
 I'm Jordan Bailey and this is my UX class based portfolio. I will be storing my assigned blog entries for usability and user eXperience here.
 
