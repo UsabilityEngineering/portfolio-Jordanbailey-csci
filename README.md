@@ -1,6 +1,8 @@
-# UX Portfolio
+# Jordan's UX Portfolio
 
-About me...
+
+
+I'm Jordan Bailey and this is my UX class based portfolio. This is where I will be storing my assigned blog entries for usability and user eXperience.
 
 ## UX Team Project
 
